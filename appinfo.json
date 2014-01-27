@@ -1,0 +1,19 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "539bcd8e-967e-4983-b643-5340d798e47f",
+    "appKeys": {},
+    "longName": "demo",
+    "versionCode": 1,
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "shortName": "demo",
+    "companyName": "Kirmas",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
