@@ -1,11 +1,12 @@
 {
-    "versionLabel": "1.0",
+    "versionLabel": "1.0.0",
     "uuid": "539bcd8e-967e-4983-b643-5340d798e47f",
-    "appKeys": {},
+    "appKeys": {
+        "dummy": 0
+    },
     "longName": "demo",
     "versionCode": 1,
     "capabilities": [
-        "location",
         "configurable"
     ],
     "shortName": "demo",
